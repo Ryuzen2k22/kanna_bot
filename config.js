@@ -68,7 +68,7 @@ global.nameown = 'Vyn-Alzena'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
+  ['6285727231608', 'VynXRyu', true],
   ['6282351319893', 'Muhimmah Putri', true],
   ['6283847909854', 'Zaky Rashif', true],
   ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
