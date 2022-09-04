@@ -10,7 +10,7 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
-// • ImYanXiao
+// • LeonGanz
 // • Xtreshe (Beban)
 // • Dll
 
@@ -46,7 +46,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/Ryuzen2k22'
-global.sgh = 'https://github.com/Ryuzen2k22/kanna_bot.git'
+global.sgh = '-'
 global.sgc = '-'
 global.sdc = '-'
 global.snh = 'https://youtube.com/c/面倒Ryuzen/'
@@ -57,21 +57,19 @@ global.povo = '-'
 global.pgopay = '085727231608'
 global.ppulsa = '085727231608'
 global.ppulsa2 = '-'
-global.psaweria = '-'
+global.psaweria = 'gapunya'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289106594173'
+global.nomorbot = '62859106594173'
 global.nomorown = '6285727231608'
-global.namebot = 'RyuGanz'
-global.nameown = 'Vyn-Alzena'
+global.namebot = 'Kanna-chwann'
+global.nameown = 'Poseidon'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285727231608', 'VynXRyu', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6285727231608', 'Poseidon', true],
+  ['62859106594173', 'Kanna-Chwann', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
