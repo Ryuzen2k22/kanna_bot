@@ -45,25 +45,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/Ryuzen2k22'
+global.sgh = 'https://github.com/Ryuzen2k22/kanna_bot.git'
+global.sgc = '-'
+global.sdc = '-'
+global.snh = 'https://youtube.com/c/面倒Ryuzen/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '085727231608'
+global.ppulsa = '085727231608'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6289106594173'
+global.nomorown = '6285727231608'
+global.namebot = 'RyuGanz'
+global.nameown = 'Vyn-Alzena'
 
 
 /*============== STAFF ==============*/
